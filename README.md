@@ -39,7 +39,7 @@ python3 tag_api.py
 # Now use .http file in respective folder to call APIs
 ```
 
-#### Run post ms (Terminal tab 1)
+#### Run post ms (Terminal tab 2)
 
 ```bash
 source ./venv/bin/activate
