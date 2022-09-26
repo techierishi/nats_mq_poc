@@ -14,7 +14,7 @@ POST http://localhost:5002/api/post_tag/add
 Content-Type: application/json
 
 {
-    "post_id": "3",
+    "post_id": "2",
     "tag_id": "1"
 }
 
